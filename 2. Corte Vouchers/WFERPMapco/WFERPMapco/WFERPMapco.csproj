@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9048D548-9532-4DE6-BE4C-D128DD7B87B4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WFERPMapco</RootNamespace>
+    <AssemblyName>WFERPMapco</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.9.0.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\packages\Portable.BouncyCastle.1.9.0\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.1.1.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.1.1\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.19.4.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.19.4\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.3.5, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.3.5\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.2.6\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.2.6\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.31.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.31\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Common, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.7.0.0\lib\net462\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.31\lib\net452\ZstdNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\BancosEntity.cs" />
+    <Compile Include="Clases\Fichas.cs" />
+    <Compile Include="Clases\MenuParametros.cs" />
+    <Compile Include="Clases\OperacionTipo.cs" />
+    <Compile Include="Clases\Prueba.cs" />
+    <Compile Include="Clases\Sucursales.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formas\Bancos\Bancos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formas\Bancos\Bancos.Designer.cs">
+      <DependentUpon>Bancos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formas\debug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formas\debug.Designer.cs">
+      <DependentUpon>debug.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formas\Ficha\Ficha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formas\Ficha\Ficha.Designer.cs">
+      <DependentUpon>Ficha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formas\Mensajes\Mensaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formas\Mensajes\Mensaje.Designer.cs">
+      <DependentUpon>Mensaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formas\Login\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formas\Login\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formas\Menu\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formas\Menu\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formas\Prueba\FRMreportePrueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formas\Prueba\FRMreportePrueba.Designer.cs">
+      <DependentUpon>FRMreportePrueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formas\Prueba\Listado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formas\Prueba\Listado.Designer.cs">
+      <DependentUpon>Listado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formas\Prueba\prueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formas\Prueba\prueba.Designer.cs">
+      <DependentUpon>prueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formas\TipoOperacion\TipoOperacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formas\TipoOperacion\TipoOperacion.Designer.cs">
+      <DependentUpon>TipoOperacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formas\tsPermisosDeGrupos\tsPermisosDeGrupos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formas\tsPermisosDeGrupos\tsPermisosDeGrupos.Designer.cs">
+      <DependentUpon>tsPermisosDeGrupos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objetos\DataSets\rptPrueba\DsPrueba.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsPrueba.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Objetos\Datos\DATABASESQL.cs" />
+    <Compile Include="Objetos\Datos\DATABASEMYSQL.cs" />
+    <Compile Include="Objetos\Datos\Modulos\Capturas\Fichas.cs" />
+    <Compile Include="Objetos\Datos\Modulos\Capturas\Login.cs" />
+    <Compile Include="Objetos\Datos\Modulos\Capturas\Menu.cs" />
+    <Compile Include="Objetos\Datos\Modulos\Capturas\ReportePrueba.cs" />
+    <Compile Include="Objetos\Datos\Modulos\Catalogos\BancoContable.cs" />
+    <Compile Include="Objetos\Datos\Modulos\Catalogos\Banco.cs" />
+    <Compile Include="Objetos\Datos\Modulos\Catalogos\Cuenta.cs" />
+    <Compile Include="Objetos\Datos\Modulos\Catalogos\Dispositivo.cs" />
+    <Compile Include="Objetos\Datos\Modulos\Catalogos\Ejemplo.cs" />
+    <Compile Include="Objetos\Datos\Modulos\Catalogos\Movimiento.cs" />
+    <Compile Include="Objetos\Datos\Modulos\Catalogos\Operacion.cs" />
+    <Compile Include="Objetos\Datos\ParametrosSQL.cs" />
+    <Compile Include="Objetos\Datos\ParametrosSQLMYSQL.cs" />
+    <Compile Include="Objetos\Utilerias\Alertas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Objetos\Utilerias\ApplyAnimation.cs" />
+    <Compile Include="Objetos\Utilerias\Resultado.cs" />
+    <Compile Include="Objetos\Utilerias\SucursalesMapco.cs" />
+    <Compile Include="Objetos\Utilerias\validaTextBox.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="Formas\Bancos\Bancos.resx">
+      <DependentUpon>Bancos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formas\debug.resx">
+      <DependentUpon>debug.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formas\Ficha\Ficha.resx">
+      <DependentUpon>Ficha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formas\Mensajes\Mensaje.resx">
+      <DependentUpon>Mensaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formas\Login\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formas\Menu\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formas\Prueba\FRMreportePrueba.resx">
+      <DependentUpon>FRMreportePrueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formas\Prueba\Listado.resx">
+      <DependentUpon>Listado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formas\Prueba\prueba.resx">
+      <DependentUpon>prueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formas\TipoOperacion\TipoOperacion.resx">
+      <DependentUpon>TipoOperacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formas\tsPermisosDeGrupos\tsPermisosDeGrupos.resx">
+      <DependentUpon>tsPermisosDeGrupos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Objetos\Reportes\rptPrueba.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Objetos\DataSets\rptPrueba\DsPrueba.xsc">
+      <DependentUpon>DsPrueba.xsd</DependentUpon>
+    </None>
+    <None Include="Objetos\DataSets\rptPrueba\DsPrueba.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsPrueba.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Objetos\DataSets\rptPrueba\DsPrueba.xss">
+      <DependentUpon>DsPrueba.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\WFERPMapco.Clases.BancosEntity.datasource" />
+    <None Include="Properties\DataSources\WFERPMapco.Clases.Fichas.datasource" />
+    <None Include="Properties\DataSources\WFERPMapco.Clases.MenuParametros.datasource" />
+    <None Include="Properties\DataSources\WFERPMapco.Clases.OperacionTipo.datasource" />
+    <None Include="Properties\DataSources\WFERPMapco.Clases.Prueba.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Imagenes\close.png" />
+    <None Include="Imagenes\delete-bin-18.png" />
+    <Content Include="Imagenes\Login\logo-blanco_mapco.png" />
+    <Content Include="Imagenes\Login\logo.png" />
+    <Content Include="Imagenes\Login\login.JPG" />
+    <None Include="Imagenes\pencil2-24.png" />
+    <Content Include="Objetos\Utilerias\Sucursales.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\logo-blanco_mapco.png" />
+    <None Include="Resources\LogoBlanco.png" />
+    <None Include="Resources\Iso03.png" />
+    <None Include="Resources\loginback.png" />
+    <None Include="Resources\login.JPG" />
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

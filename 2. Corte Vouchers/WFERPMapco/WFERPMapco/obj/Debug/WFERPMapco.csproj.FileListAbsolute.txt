@@ -1,0 +1,1327 @@
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Utilerias\Sucursales.xml
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Reportes\rptPrueba.rdlc
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe.config
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.pdb
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Guna.UI2.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\ZstdNet.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\stdole.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.pdb
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.xml
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.xml
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.xml
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.xml
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.xml
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.AssemblyReference.cache
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.debug.resources
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Ficha.Ficha.resources
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Mensajes.Mensaje.resources
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Login.Login.resources
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Menu.Menu.resources
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.FRMreportePrueba.resources
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.Listado.resources
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.prueba.resources
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.tsPermisosDeGrupos.tsPermisosDeGrupos.resources
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Properties.Resources.resources
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.GenerateResource.cache
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\RdlCompile.cache
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\RdlCompile.compiled
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CoreCompileInputs.cache
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CopyComplete
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe
+C:\Users\Raul Reyes\Downloads\a\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.pdb
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Utilerias\Sucursales.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Reportes\rptPrueba.rdlc
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe.config
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.pdb
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Guna.UI2.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ZstdNet.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\stdole.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE80.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\VSLangProj.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\VSLangProj80.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\VSLangProj2.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.pdb
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csprojAssemblyReference.cache
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe.config
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.debug.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Ficha.Ficha.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Mensajes.Mensaje.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Login.Login.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Menu.Menu.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.FRMreportePrueba.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.Listado.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.prueba.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.tsPermisosDeGrupos.tsPermisosDeGrupos.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Properties.Resources.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.GenerateResource.cache
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CoreCompileInputs.cache
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CopyComplete
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe
+C:\Users\Programador\Downloads\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.pdb
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Utilerias\Sucursales.xml
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Reportes\rptPrueba.rdlc
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe.config
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.pdb
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Guna.UI2.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ZstdNet.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\stdole.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.pdb
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.xml
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.xml
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.xml
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.xml
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.xml
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.debug.resources
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Ficha.Ficha.resources
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Mensajes.Mensaje.resources
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Login.Login.resources
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Menu.Menu.resources
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.FRMreportePrueba.resources
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.Listado.resources
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.prueba.resources
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.tsPermisosDeGrupos.tsPermisosDeGrupos.resources
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Properties.Resources.resources
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.GenerateResource.cache
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\RdlCompile.cache
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\RdlCompile.compiled
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CoreCompileInputs.cache
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CopyComplete
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe
+C:\Users\Raul Reyes\Downloads\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.pdb
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Utilerias\Sucursales.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Reportes\rptPrueba.rdlc
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe.config
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.pdb
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Guna.UI2.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ZstdNet.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\stdole.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE80.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\VSLangProj.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\VSLangProj80.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\VSLangProj2.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.pdb
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe.config
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.debug.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Ficha.Ficha.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Mensajes.Mensaje.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Login.Login.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Menu.Menu.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.FRMreportePrueba.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.Listado.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.prueba.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.tsPermisosDeGrupos.tsPermisosDeGrupos.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Properties.Resources.resources
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.GenerateResource.cache
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CoreCompileInputs.cache
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CopyComplete
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.pdb
+C:\Users\Programador\Downloads\CasiUltimaVersion3\CasiUltimaVersion2\CasiUltimaVersion\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Utilerias\Sucursales.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Reportes\rptPrueba.rdlc
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe.config
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.pdb
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Guna.UI2.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\ZstdNet.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\stdole.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.pdb
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.debug.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Ficha.Ficha.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Mensajes.Mensaje.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Login.Login.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Menu.Menu.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.FRMreportePrueba.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.Listado.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.prueba.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.tsPermisosDeGrupos.tsPermisosDeGrupos.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Properties.Resources.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.GenerateResource.cache
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\RdlCompile.cache
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\RdlCompile.compiled
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CoreCompileInputs.cache
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CopyComplete
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.pdb
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV6\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.AssemblyReference.cache
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Utilerias\Sucursales.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Reportes\rptPrueba.rdlc
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe.config
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.pdb
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Guna.UI2.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ZstdNet.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\stdole.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE80.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\VSLangProj.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\VSLangProj80.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\VSLangProj2.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.pdb
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csprojAssemblyReference.cache
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe.config
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.debug.resources
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Ficha.Ficha.resources
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Mensajes.Mensaje.resources
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Login.Login.resources
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Menu.Menu.resources
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.FRMreportePrueba.resources
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.Listado.resources
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.prueba.resources
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.tsPermisosDeGrupos.tsPermisosDeGrupos.resources
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Properties.Resources.resources
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.GenerateResource.cache
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CoreCompileInputs.cache
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CopyComplete
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe
+C:\Users\Programador\Downloads\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.pdb
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Utilerias\Sucursales.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Reportes\rptPrueba.rdlc
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe.config
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.pdb
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Guna.UI2.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ZstdNet.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\stdole.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.pdb
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.AssemblyReference.cache
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.debug.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Ficha.Ficha.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Mensajes.Mensaje.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Login.Login.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Menu.Menu.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.FRMreportePrueba.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.Listado.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.prueba.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.tsPermisosDeGrupos.tsPermisosDeGrupos.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Properties.Resources.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.GenerateResource.cache
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\RdlCompile.cache
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\RdlCompile.compiled
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CoreCompileInputs.cache
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CopyComplete
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe
+C:\Users\Raul Reyes\Downloads\WFERPMapcoV8\WFERPMapcoV7\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.pdb
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Utilerias\Sucursales.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Reportes\rptPrueba.rdlc
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe.config
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.pdb
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Guna.UI2.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\ZstdNet.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\stdole.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE80.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\VSLangProj.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\VSLangProj80.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\VSLangProj2.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.pdb
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe.config
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.debug.resources
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Ficha.Ficha.resources
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Mensajes.Mensaje.resources
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Login.Login.resources
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Menu.Menu.resources
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.FRMreportePrueba.resources
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.Listado.resources
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.prueba.resources
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.TipoOperacion.TipoOperacion.resources
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.tsPermisosDeGrupos.tsPermisosDeGrupos.resources
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Properties.Resources.resources
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.GenerateResource.cache
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CoreCompileInputs.cache
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CopyComplete
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe
+C:\Users\Programador\Downloads\ModuloFichasMapco\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.pdb
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Utilerias\Sucursales.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Reportes\rptPrueba.rdlc
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe.config
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.pdb
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Guna.UI2.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\ZstdNet.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\stdole.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.pdb
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.debug.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Ficha.Ficha.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Mensajes.Mensaje.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Login.Login.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Menu.Menu.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.FRMreportePrueba.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.Listado.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.prueba.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.TipoOperacion.TipoOperacion.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.tsPermisosDeGrupos.tsPermisosDeGrupos.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Properties.Resources.resources
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.GenerateResource.cache
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\RdlCompile.cache
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\RdlCompile.compiled
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CoreCompileInputs.cache
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CopyComplete
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.pdb
+C:\Users\Raul Reyes\Downloads\WFERPMapco_TipoOper\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.AssemblyReference.cache
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Utilerias\Sucursales.xml
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Reportes\rptPrueba.rdlc
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe.config
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.pdb
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Guna.UI2.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ZstdNet.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\stdole.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.pdb
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.xml
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.xml
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.xml
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.xml
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.xml
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.xml
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.AssemblyReference.cache
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.SuggestedBindingRedirects.cache
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.debug.resources
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Ficha.Ficha.resources
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Mensajes.Mensaje.resources
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Login.Login.resources
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Menu.Menu.resources
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.FRMreportePrueba.resources
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.Listado.resources
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.prueba.resources
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.TipoOperacion.TipoOperacion.resources
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.tsPermisosDeGrupos.tsPermisosDeGrupos.resources
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Properties.Resources.resources
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.GenerateResource.cache
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CoreCompileInputs.cache
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CopyComplete
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.pdb
+C:\Users\japal\Downloads\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Bancos.Bancos.resources
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Utilerias\Sucursales.xml
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Objetos\Reportes\rptPrueba.rdlc
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe.config
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.exe
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\WFERPMapco.pdb
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\FontAwesome.Sharp.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Guna.UI2.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ZstdNet.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\EnvDTE.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\stdole.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\BouncyCastle.Crypto.xml
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.pdb
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Google.Protobuf.xml
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.xml
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\K4os.Hash.xxHash.xml
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\MySql.Data.xml
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\Newtonsoft.Json.xml
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Buffers.xml
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Drawing.Common.xml
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Memory.xml
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Numerics.Vectors.xml
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.AssemblyReference.cache
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.SuggestedBindingRedirects.cache
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Bancos.Bancos.resources
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.debug.resources
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Ficha.Ficha.resources
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Mensajes.Mensaje.resources
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Login.Login.resources
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Menu.Menu.resources
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.FRMreportePrueba.resources
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.Listado.resources
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.Prueba.prueba.resources
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.TipoOperacion.TipoOperacion.resources
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.tsPermisosDeGrupos.tsPermisosDeGrupos.resources
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Properties.Resources.resources
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.GenerateResource.cache
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CoreCompileInputs.cache
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.csproj.CopyComplete
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.exe
+E:\JAVIER LEON\MAPCO\WFERPMapco_Integrado2.0\WFERPMapco_Integrado\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.pdb
