@@ -53,7 +53,7 @@ namespace WFERPMapco.Formas
             parametrosModulo.IdEmpresa = sucursalFiltrada.First().IdEmpresa;
 
             //string cad = "Data Source=" + parametrosModulo.IpServidor + ";Port=3306;Initial Catalog=BDBASE" + parametrosModulo.BaseDatos + "22;User ID=user;Password=mapcouser";
-            string cad = "Data Source=" + parametrosModulo.IpServidor + ";Port=3308;Initial Catalog=" + parametrosModulo.BaseDatos + ";User ID=root;Password=";
+            string cad = "Data Source=" + parametrosModulo.IpServidor + ";Port=3306;Initial Catalog=" + parametrosModulo.BaseDatos + ";User ID=root;Password=";
             Configuration config = ConfigurationManager.OpenExeConfiguration(ConfigurationUserLevel.None);
             //config.ConnectionStrings.ConnectionStrings.(new ConnectionStringSettings(
             //                                              "MYSQL",cad));
