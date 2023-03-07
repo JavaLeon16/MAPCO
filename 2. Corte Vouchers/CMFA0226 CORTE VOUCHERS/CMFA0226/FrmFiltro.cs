@@ -54,7 +54,7 @@ namespace CMFA0226
 
                 ////Manual      
                 //Constring = "CMFA0225,172.16.34.1,53,20/02/20,995,99,SISTEMAS,05277,31,1";
-                Constring = "CMFA0225,127.0.0.1,mapco,20/02/20,995,99,SISTEMAS,05277,31,1";
+                Constring = "CMFA0225,localhost,mapco,20/02/20,995,99,SISTEMAS,05277,31,1";
                 string[] Var = Constring.Split(',');
 
 
@@ -78,7 +78,7 @@ namespace CMFA0226
                     //Conexion MySQL <Sucursal Local>
                     //**************************
                     //Constring = "server=" + Ip + ";uid=user;pwd=mapcouser;database=" + NumEmp + Fecha.Substring
-                    Constring = "server=" + Ip + ";uid=root;pwd=root;database=" + NumEmp; //*/ + Fecha.Substring(Fecha.LastIndexOf('/') + 1, 2).ToString().Trim() + "BASE; Allow Zero Datetime=True";
+                    Constring = "server=" + Ip + ";uid=root;pwd=;database=" + NumEmp; //*/ + Fecha.Substring(Fecha.LastIndexOf('/') + 1, 2).ToString().Trim() + "BASE; Allow Zero Datetime=True";
 
                     //Conexion sqlserver
                     //Constring = "server=" + Ip + ";uid=sa;pwd=sa;database=" + NumEmp + Fecha.Substring
