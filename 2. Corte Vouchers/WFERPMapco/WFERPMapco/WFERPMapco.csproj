@@ -137,6 +137,19 @@
     <Compile Include="Formas\Bancos\Bancos.Designer.cs">
       <DependentUpon>Bancos.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formas\CorteDeVoucher\CorteDeVoucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formas\CorteDeVoucher\CorteDeVoucher.Designer.cs">
+      <DependentUpon>CorteDeVoucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formas\CorteDeVoucher\CorteDeVoucherParametros.cs" />
+    <Compile Include="Formas\CorteDeVoucher\CorteDeVouchersRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formas\CorteDeVoucher\CorteDeVouchersRpt.Designer.cs">
+      <DependentUpon>CorteDeVouchersRpt.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formas\debug.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -229,6 +242,12 @@
     <Compile Include="SqlServerTypes\Loader.cs" />
     <EmbeddedResource Include="Formas\Bancos\Bancos.resx">
       <DependentUpon>Bancos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formas\CorteDeVoucher\CorteDeVoucher.resx">
+      <DependentUpon>CorteDeVoucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formas\CorteDeVoucher\CorteDeVouchersRpt.resx">
+      <DependentUpon>CorteDeVouchersRpt.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formas\debug.resx">
       <DependentUpon>debug.cs</DependentUpon>
