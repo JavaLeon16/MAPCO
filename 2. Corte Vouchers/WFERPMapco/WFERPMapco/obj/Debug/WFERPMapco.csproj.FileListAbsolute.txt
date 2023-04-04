@@ -1431,3 +1431,4 @@ C:\Users\japal\OneDrive\Documentos\GitHub\MAPCO\2. Corte Vouchers\WFERPMapco\WFE
 C:\Users\japal\OneDrive\Documentos\GitHub\MAPCO\2. Corte Vouchers\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.pdb
 C:\Users\japal\OneDrive\Documentos\GitHub\MAPCO\2. Corte Vouchers\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.CorteDeVoucher.CorteDeVouchersRpt.resources
 C:\Users\japal\OneDrive\Documentos\GitHub\MAPCO\2. Corte Vouchers\WFERPMapco\WFERPMapco\obj\Debug\WFERPMapco.Formas.CorteDeVoucher.CorteDeVoucher.resources
+C:\Users\japal\OneDrive\Documentos\GitHub\MAPCO\2. Corte Vouchers\WFERPMapco\WFERPMapco\bin\Debug\Microsoft.MSXML.dll
